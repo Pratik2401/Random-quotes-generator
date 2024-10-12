@@ -150,5 +150,9 @@ export const quoteslist = [
       {
         text: "Don't watch the clock; do what it does. Keep going.",
         author: "Sam Levenson"
-      }
+      },
+    {
+        text:"Karna hei to clg ki website hack karo warna kuch mat karna..",
+        authoor:"Yogesh The Hacker"
+    }
 ];
